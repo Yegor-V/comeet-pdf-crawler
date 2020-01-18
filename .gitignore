@@ -1,0 +1,5 @@
+.env
+cpc
+.idea/*
+__pycache__
+*.pyc
